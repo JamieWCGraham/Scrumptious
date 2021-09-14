@@ -1,0 +1,170 @@
+.backgroundWaves {
+    /* background-image: url("https://images.pexels.com/photos/2395249/pexels-photo-2395249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    object-fit: fill;
+    object-position: top right 100%; */
+    background: linear-gradient(to left,#F9F5EC,#f0fcfc);
+    width: auto;
+    height: auto;
+    margin: 0;
+}
+
+.scrumptiousBox{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin:0;
+}
+ 
+
+.scrumptiousImg2{
+    margin-left: 12vw;
+    width: 70%;
+    object-fit: fill;
+ }
+
+
+.contact{
+    position: absolute;
+    margin-left: 8vw;
+    margin-top: 9vw;
+    font-family: 'Pacifico', cursive;
+    font-size:1.2vw;
+    letter-spacing: .8vw;
+    font-weight: 100;
+    color: black;
+}
+
+
+
+.contactMe{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-family: 'Pacifico', cursive;
+    color: #2B0A73;
+}
+
+.contactInfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top:5vw;
+}
+
+.contactImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 2vw;
+    object-fit: cover;
+}
+
+.innerInfo{
+    display: flex;
+    margin-top: 4vw;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom:4vw;
+    font-size: 18px;
+    /* font-weight: 300; */
+    line-height: .1px;
+    font-family: 'Verdana';
+    color: 	black;
+}
+
+.innerList{
+    line-height: 60px;
+}
+
+
+
+.scrumptiousNav{
+    padding-bottom: 5vw;
+}
+
+.header{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#2B0A73;
+    width: 100%;
+    height: 4vw;
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#2B0A73;
+    width: 100%;
+    height: 10vw;
+}
+
+.footerText{
+    display:flex;
+    color:white;
+    align-self:center;
+    justify-content: center;
+}
+
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 939px) {
+    
+
+.backgroundWaves {
+    /* background-image: url("https://i.ibb.co/W6rpjvm/baked.png");
+    object-fit: fill; */
+    background: linear-gradient(to left,#F9F5EC,#f0fcfc);
+    width: auto;
+    height: auto;
+    margin: 0;
+}
+
+.scrumptiousBox{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact{
+    position: absolute;
+    margin-left: 10vw;
+    margin-top: 7vw;
+    font-family: Arial;
+    font-size:2.5vw;
+    letter-spacing: 1vw;
+    font-weight: 100;
+    color:grey;
+}
+
+.scrumptiousImg2{
+    margin-left: 25vw;
+    width: 100%;
+    object-fit: fill;
+ }
+
+
+.scrumptiousNav{
+    text-align: center;
+}
+
+.footer{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:#2B0A73;
+    width: 100%;
+    height: 40vw;
+}
+
+}
+

@@ -1,0 +1,126 @@
+.menuTitle{
+    font-family: 'Pacifico', cursive;
+    color:#2B0A73;
+    font-size: 55px;
+}
+
+.menuSubtitle{
+    display:flex;
+    align-items: center;
+    font-family: 'Arial', cursive;
+    font-size:20px;
+    font-weight: bold;
+    color:#2B0A73;
+    margin-bottom: .9vw;
+    margin-right: 10vw;
+}
+
+.menuSpecialText{
+    display:flex;
+    align-items: center;
+    line-height: .2px;
+    font-family: 'Arial';
+    font-size:13px;
+    font-weight: bold;
+    margin-top: .2vw;
+    color:#2B0A73;
+}
+
+.menuSpecialText2{
+    display:flex;
+    align-items: center;
+    line-height: .2px;
+    font-family: 'Arial';
+    font-size:20px;
+    font-weight: bold;
+    margin-top: .1vw;
+    color:#2B0A73;
+    position:absolute;
+    margin-left: 22%;
+}
+
+.indent {
+    margin-left: 1vw;
+}
+.bottomIndent {
+    margin-bottom: .5vw;
+}
+.topIndent {
+    margin-top: 1.5vw;
+}
+
+.menuText{
+    display:flex;
+    align-items: center;
+    line-height: .1px;
+    font-family: 'Verdana';
+    font-size:15px;
+    color: 	#7C767E;
+    margin-right: .5vw;
+}
+
+.menuText2{
+    display:flex;
+    align-items: center;
+    line-height: .1px;
+    font-family: 'Verdana';
+    font-size:15px;
+    color: 	#7C767E;
+    margin-right: .5vw;
+    margin-left: 1vw;
+}
+
+.menuStanza{
+    padding-top: 5vw;
+    padding-left: 5vw;
+    padding-bottom:5vw;
+    width: 35%;
+    height: auto;
+}
+
+.menuLine{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.menuBlock{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.menuImages{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin-top: 50px;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    padding-bottom: 5vw;
+}
+
+.menuImage {
+    border: 5px solid #2B0A73;
+    margin-top: 1vw;
+}
+
+.imgCaption{
+    font-family: 'Verdana';
+    font-size:15px;
+    color: 	#2B0A73;
+    font-weight: bold;
+    margin-right: .5vw;
+}
+
+.indent {
+    margin-left: 1vw;
+}
+.bottomIndent {
+    margin-bottom: .5vw;
+}
+.topIndent {
+    margin-top: 1.5vw;
+}
