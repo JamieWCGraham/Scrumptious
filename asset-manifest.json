@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Scrumptious/static/css/main.ce9c6183.chunk.css",
-    "main.js": "/Scrumptious/static/js/main.0547a772.chunk.js",
-    "main.js.map": "/Scrumptious/static/js/main.0547a772.chunk.js.map",
+    "main.js": "/Scrumptious/static/js/main.7e2e93e7.chunk.js",
+    "main.js.map": "/Scrumptious/static/js/main.7e2e93e7.chunk.js.map",
     "runtime-main.js": "/Scrumptious/static/js/runtime-main.ed40760b.js",
     "runtime-main.js.map": "/Scrumptious/static/js/runtime-main.ed40760b.js.map",
-    "static/js/2.87298532.chunk.js": "/Scrumptious/static/js/2.87298532.chunk.js",
-    "static/js/2.87298532.chunk.js.map": "/Scrumptious/static/js/2.87298532.chunk.js.map",
+    "static/js/2.bce43234.chunk.js": "/Scrumptious/static/js/2.bce43234.chunk.js",
+    "static/js/2.bce43234.chunk.js.map": "/Scrumptious/static/js/2.bce43234.chunk.js.map",
     "static/js/3.df172094.chunk.js": "/Scrumptious/static/js/3.df172094.chunk.js",
     "static/js/3.df172094.chunk.js.map": "/Scrumptious/static/js/3.df172094.chunk.js.map",
     "index.html": "/Scrumptious/index.html",
     "static/css/main.ce9c6183.chunk.css.map": "/Scrumptious/static/css/main.ce9c6183.chunk.css.map",
-    "static/js/2.87298532.chunk.js.LICENSE.txt": "/Scrumptious/static/js/2.87298532.chunk.js.LICENSE.txt",
+    "static/js/2.bce43234.chunk.js.LICENSE.txt": "/Scrumptious/static/js/2.bce43234.chunk.js.LICENSE.txt",
     "static/media/baked.2945c4c2.png": "/Scrumptious/static/media/baked.2945c4c2.png",
     "static/media/logo.6ce24c58.svg": "/Scrumptious/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ed40760b.js",
-    "static/js/2.87298532.chunk.js",
+    "static/js/2.bce43234.chunk.js",
     "static/css/main.ce9c6183.chunk.css",
-    "static/js/main.0547a772.chunk.js"
+    "static/js/main.7e2e93e7.chunk.js"
   ]
 }
