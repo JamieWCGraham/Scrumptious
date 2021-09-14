@@ -16,7 +16,7 @@ import {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Scrumptious">
         <Switch>
           <Route exact path="/">
             <Home/>
