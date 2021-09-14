@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scrumptious/static/css/main.ce9c6183.chunk.css",
-    "main.js": "/scrumptious/static/js/main.d41f2021.chunk.js",
-    "main.js.map": "/scrumptious/static/js/main.d41f2021.chunk.js.map",
+    "main.js": "/scrumptious/static/js/main.dcdb4358.chunk.js",
+    "main.js.map": "/scrumptious/static/js/main.dcdb4358.chunk.js.map",
     "runtime-main.js": "/scrumptious/static/js/runtime-main.531e6d2c.js",
     "runtime-main.js.map": "/scrumptious/static/js/runtime-main.531e6d2c.js.map",
     "static/js/2.bce43234.chunk.js": "/scrumptious/static/js/2.bce43234.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.531e6d2c.js",
     "static/js/2.bce43234.chunk.js",
     "static/css/main.ce9c6183.chunk.css",
-    "static/js/main.d41f2021.chunk.js"
+    "static/js/main.dcdb4358.chunk.js"
   ]
 }
