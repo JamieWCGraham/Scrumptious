@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Scrumptious/static/css/main.ce9c6183.chunk.css",
-    "main.js": "/Scrumptious/static/js/main.7e2e93e7.chunk.js",
-    "main.js.map": "/Scrumptious/static/js/main.7e2e93e7.chunk.js.map",
-    "runtime-main.js": "/Scrumptious/static/js/runtime-main.ed40760b.js",
-    "runtime-main.js.map": "/Scrumptious/static/js/runtime-main.ed40760b.js.map",
-    "static/js/2.bce43234.chunk.js": "/Scrumptious/static/js/2.bce43234.chunk.js",
-    "static/js/2.bce43234.chunk.js.map": "/Scrumptious/static/js/2.bce43234.chunk.js.map",
-    "static/js/3.df172094.chunk.js": "/Scrumptious/static/js/3.df172094.chunk.js",
-    "static/js/3.df172094.chunk.js.map": "/Scrumptious/static/js/3.df172094.chunk.js.map",
-    "index.html": "/Scrumptious/index.html",
-    "static/css/main.ce9c6183.chunk.css.map": "/Scrumptious/static/css/main.ce9c6183.chunk.css.map",
-    "static/js/2.bce43234.chunk.js.LICENSE.txt": "/Scrumptious/static/js/2.bce43234.chunk.js.LICENSE.txt",
-    "static/media/baked.2945c4c2.png": "/Scrumptious/static/media/baked.2945c4c2.png",
-    "static/media/logo.6ce24c58.svg": "/Scrumptious/static/media/logo.6ce24c58.svg"
+    "main.css": "/scrumptious/static/css/main.ce9c6183.chunk.css",
+    "main.js": "/scrumptious/static/js/main.d41f2021.chunk.js",
+    "main.js.map": "/scrumptious/static/js/main.d41f2021.chunk.js.map",
+    "runtime-main.js": "/scrumptious/static/js/runtime-main.531e6d2c.js",
+    "runtime-main.js.map": "/scrumptious/static/js/runtime-main.531e6d2c.js.map",
+    "static/js/2.bce43234.chunk.js": "/scrumptious/static/js/2.bce43234.chunk.js",
+    "static/js/2.bce43234.chunk.js.map": "/scrumptious/static/js/2.bce43234.chunk.js.map",
+    "static/js/3.df172094.chunk.js": "/scrumptious/static/js/3.df172094.chunk.js",
+    "static/js/3.df172094.chunk.js.map": "/scrumptious/static/js/3.df172094.chunk.js.map",
+    "index.html": "/scrumptious/index.html",
+    "static/css/main.ce9c6183.chunk.css.map": "/scrumptious/static/css/main.ce9c6183.chunk.css.map",
+    "static/js/2.bce43234.chunk.js.LICENSE.txt": "/scrumptious/static/js/2.bce43234.chunk.js.LICENSE.txt",
+    "static/media/baked.2945c4c2.png": "/scrumptious/static/media/baked.2945c4c2.png",
+    "static/media/logo.6ce24c58.svg": "/scrumptious/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed40760b.js",
+    "static/js/runtime-main.531e6d2c.js",
     "static/js/2.bce43234.chunk.js",
     "static/css/main.ce9c6183.chunk.css",
-    "static/js/main.7e2e93e7.chunk.js"
+    "static/js/main.d41f2021.chunk.js"
   ]
 }
